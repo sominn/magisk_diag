@@ -10,7 +10,7 @@
   },
   "magisk": {
     "version": "21.400",
-    "versionCode": "21300",
+    "versionCode": "21400",
     "link": "https://github.com/sominn/magisk_diag/releases/download/21.400/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
     "md5": "088fb6545e7042a4939bda7d21423b8b"
