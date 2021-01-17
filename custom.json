@@ -9,7 +9,7 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
   },
   "magisk": {
-    "version": "21.399",
+    "version": "21.400",
     "versionCode": "21300",
     "link": "https://github.com/sominn/magisk_diag/releases/download/21.399/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
