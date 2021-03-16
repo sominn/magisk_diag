@@ -1,0 +1,7 @@
+{
+  "magisk": {
+    "version": "22.001",
+    "versionCode": "22001",
+    "link": "https://github.com/sominn/magisk_diag/releases/download/22.001/app-debug.apk",
+  }
+}
